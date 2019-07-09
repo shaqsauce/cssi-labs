@@ -1,0 +1,27 @@
+h1 {
+
+  font-style: "bold";
+
+  font-family: "times new roman", Times, serif;
+  color: #9000ff;
+
+}
+h2{
+  font-family: "times new roman", Times, monospace;
+color: #2ee805;
+}
+
+p{
+font-family: "times new roman", Times, monospace;
+color:#00b7ff
+
+}
+
+li{
+  font-family: "times new roman", Times, monospace;
+  color: #ffe100;
+  font-size: 20px;
+}
+html{
+  background-image: linear-gradient(to right, red, orange);
+}
