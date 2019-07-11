@@ -58,5 +58,7 @@ def get_move_name(short_move):
     else:
         return "Scissors"
 
-
+determine_winner(get_player_move, get_computer_move)
+print_scoreboard(player_wins, comp_wins, ties)
+get_move_name(short_move)
 # Write your code below - make RPS happen using the functions above!

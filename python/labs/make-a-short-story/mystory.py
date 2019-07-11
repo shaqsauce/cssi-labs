@@ -1,0 +1,11 @@
+  print("Welcome to Anthony's Mad Lib")
+noun1 = raw_input("Enter a noun: ")
+pronoun1 = raw_input("Enter a pronoun for the noun: ")
+adjective1 = raw_input("Enter a adjective: ")
+noun2 = raw_input("Enter another noun: ")
+verb1 = raw_input("Enter a verb: ")
+adjective2 = raw_input("Enter a adjective: ")
+noun3 = raw_input("Enter a noun: ")
+toy = raw_input("Enter something you play with: ")
+
+print("The " + noun1 + " lived with a " + adjective1 + " " + noun2 + ". Then the " + noun2 + " decided to get married to a " + adjective2 +" "+ noun3 +" and wanted to " + verb1 + "! The "+ noun1 + " played with "+ pronoun1 + " " + toy + " *Meow*.")
